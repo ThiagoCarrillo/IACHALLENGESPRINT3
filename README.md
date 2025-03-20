@@ -35,10 +35,10 @@ O projeto OdontoPrev visa utilizar inteligência artificial para identificar pad
 - Expansão da base de dados para maior precisão.
 - Integração com um aplicativo mobile para exibição dos dados.
 
-## ** INTEGRANTES DO GRUPO** 
-THIAGO CARRILLO RM553565
-IGOR OVIEDO RM553434
-CAUÃ LOUREIRO RM553093 
+## **INTEGRANTES DO GRUPO** 
+- THIAGO CARRILLO RM553565
+- IGOR OVIEDO RM553434
+- CAUÃ LOUREIRO RM553093 
 
 ## **LINK DO VIDEO**
 
